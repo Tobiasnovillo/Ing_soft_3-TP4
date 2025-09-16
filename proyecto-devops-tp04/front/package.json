@@ -1,0 +1,9 @@
+{
+  "name": "simple-frontend",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "echo \"Frontend running - open index.html\"",
+    "build": "echo \"Nothing to build for static HTML\" && exit 0"
+  }
+}
+
